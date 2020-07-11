@@ -1,7 +1,7 @@
 ## Hi there 👋 
 I'm a passionate Front-End Web Developer. I love writing code and making things happen!
 
-
+<p align='center'>
 ## CONNECT WITH ME 💬
 <br>
 <a href="https://medium.com/@asifadib">
@@ -29,7 +29,7 @@ I'm a passionate Front-End Web Developer. I love writing code and making things 
 <a href="https://www.quora.com/profile/Asif-Adib-3">
   <img align="left" alt="Asif Adib Quora English" width="21px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/1147d199a35293b391152ee85e2d30988439157f/svgs/brands/quora.svg" />
 </a>
-
+</P>
 
   <br/><br/>
   
