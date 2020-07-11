@@ -2,7 +2,7 @@
 I'm a passionate Front-End Web Developer. I love writing code and making things happen!
 
 
-## Connect With Me 💬
+## CONNECT WITH ME 💬
 <br>
 <a href="https://medium.com/@asifadib">
   <img align="left" alt="Asif Adib Medium" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
@@ -35,7 +35,7 @@ I'm a passionate Front-End Web Developer. I love writing code and making things 
   
   
 
-### Programming Languages  :rocket:
+## PROGRAMMING LANGUAGES  :rocket:
 | <img src="https://raw.githubusercontent.com/asifadib/asifadib/master/img/js.png" width=60> |
 |:---:|
 
