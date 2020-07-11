@@ -49,16 +49,8 @@ I'm a passionate Front-End Web Developer. I love writing code and making things 
 
 
 
+![Asif Adib's github stats](https://github-readme-stats.vercel.app/api?username=asifadib&show_icons=true)
 
-
-
-
-
-
-
-
-
-![Asif Adib's github stats](https://github-readme-stats.vercel.app/api?username=asifadib)
 
 
 
