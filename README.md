@@ -41,24 +41,16 @@ I'm a passionate Front-End Web Developer from Comilla, Bangladesh. </br> I have 
 ## PROGRAMMING LANGUAGES  :rocket:
 | <img src="https://raw.githubusercontent.com/asifadib/asifadib/master/img/js.png" width=60> |
 |:---:|
-
-
-
+</br>
 
 ### TOOLS :fire:
 |<img src="https://raw.githubusercontent.com/asifadib/asifadib/master/img/git.png" width=60> | <img src="https://raw.githubusercontent.com/asifadib/asifadib/master/img/github.svg" width=60> | <img src="https://raw.githubusercontent.com/asifadib/asifadib/master/img/vscode.png" width=60> |
 |:---:|:---:|:---:|
 
-<br/><br/><br/><br/>
-
-
-
+<br/>
 
  ![Readme Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=asifadib/asifadib)
- <br/><br/><br/><br/>
-
-
-
+ <br/>
 
 ![Asif Adib's github stats](https://github-readme-stats.vercel.app/api?username=asifadib&show_icons=true)
 
