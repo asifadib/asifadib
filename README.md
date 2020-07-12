@@ -1,8 +1,15 @@
+
+
+# Hi, I'm Asif Adib 👋💻
+
+<img src="https://raw.githubusercontent.com/asifadib/asifadib/master/img/Asif-Adib_Github_Readme_Profile_Cover.png" alt="banner that says Asif Adib - Front-End Web Developer">
+
+
 ## Hi there 👋 
 I'm a passionate Front-End Web Developer. I love writing code and making things happen!
 
 
-## CONNECT WITH ME 💬
+## FIND ME AROUND THE WEB 🌎 💬
 <br>
 <a href="https://medium.com/@asifadib">
   <img align="left" alt="Asif Adib Medium" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
