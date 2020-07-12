@@ -6,7 +6,7 @@
 
 
 ## Hi there 👋 
-I'm a passionate Front-End Web Developer from Comilla, Bangladesh. I have a passion for learning and teaching others. I love writing code and making things happen! I love what I do, and am constantly honing my craft. You can follow along with me, I try to document <a href="https://www.meetup.com/React-Ladies/">MY JOURNEY</a> the best I can by writing articles.
+I'm a passionate Front-End Web Developer from Comilla, Bangladesh. I have a passion for learning and teaching others. I love writing code and making things happen! I love what I do, and am constantly honing my craft. You can follow along with me, I try to document <a href="https://medium.com/asifadib-diary/">MY JOURNEY</a> the best I can by writing articles.
 
  
 
