@@ -49,10 +49,15 @@ I'm a passionate Front-End Web Developer from Comilla, Bangladesh. </br> I have 
 
 <br/>
 
+![Asif Adib's github stats](https://github-readme-stats.vercel.app/api?username=asifadib&show_icons=true)
+
+<br/>
+
  ![Readme Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=asifadib/asifadib)
+ 
  <br/>
 
-![Asif Adib's github stats](https://github-readme-stats.vercel.app/api?username=asifadib&show_icons=true)
+
 
 
 
