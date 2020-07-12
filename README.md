@@ -45,7 +45,7 @@ I'm a passionate Front-End Web Developer from Comilla, Bangladesh. </br> I have 
 
 
 
-### Tools :fire:
+### TOOLS :fire:
 |<img src="https://raw.githubusercontent.com/asifadib/asifadib/master/img/git.png" width=60> | <img src="https://raw.githubusercontent.com/asifadib/asifadib/master/img/github.svg" width=60> | <img src="https://raw.githubusercontent.com/asifadib/asifadib/master/img/vscode.png" width=60> |
 |:---:|:---:|:---:|
 
