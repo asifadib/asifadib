@@ -49,16 +49,13 @@ I'm a passionate Front-End Web Developer from Comilla, Bangladesh. </br> I have 
 |<img src="https://raw.githubusercontent.com/asifadib/asifadib/master/img/git.png" width=60> | <img src="https://raw.githubusercontent.com/asifadib/asifadib/master/img/github.svg" width=60> | <img src="https://raw.githubusercontent.com/asifadib/asifadib/master/img/vscode.png" width=60> |
 |:---:|:---:|:---:|
 
+<br/><br/><br/><br/>
 
 
 
 
-  ![Readme Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=asifadib/asifadib)
-
-  
-  <br/><br/>  
-  <br/><br/>
-
+ ![Readme Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=asifadib/asifadib)
+ <br/><br/><br/><br/>
 
 
 
