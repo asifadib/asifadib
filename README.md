@@ -34,13 +34,13 @@ I'm a passionate Front-End Web Developer from Comilla, Bangladesh. </br> I have 
   <img align="left" alt="Asif Adib Quora English" width="21px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/1147d199a35293b391152ee85e2d30988439157f/svgs/brands/quora.svg" />
 </a>
 
-  <br/><br/>
-  
-  
+<br/>
+<br/>
 
 ## PROGRAMMING LANGUAGES  :rocket:
 | <img src="https://raw.githubusercontent.com/asifadib/asifadib/master/img/js.png" width=60> |
 |:---:|
+
 </br>
 
 ### TOOLS :fire:
@@ -53,11 +53,9 @@ I'm a passionate Front-End Web Developer from Comilla, Bangladesh. </br> I have 
 
 <br/>
 
- ![Readme Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=asifadib/asifadib)
+![Readme Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=asifadib/asifadib)
  
- <br/>
-
-
+<br/>
 
 
 
