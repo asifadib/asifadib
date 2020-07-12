@@ -6,8 +6,9 @@
 
 
 ## Hi there 👋 
-I'm a passionate Front-End Web Developer. I love writing code and making things happen!
+I'm a passionate Front-End Web Developer from Comilla, Bangladesh. I have a passion for learning and teaching others. I love writing code and making things happen! I love what I do, and am constantly honing my craft. You can follow along with me, I try to document my journey the best I can by writing articles.
 
+ 
 
 ## FIND ME AROUND THE WEB 🌎 💬
 <br>
