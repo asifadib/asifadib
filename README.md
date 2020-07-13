@@ -47,12 +47,12 @@ I'm a passionate Front-End Web Developer from Comilla, Bangladesh. </br> I have 
 |:---:|:---:|:---:|
 <br/>
 
-🤖 Open Source Packages :octocat:
+## 🤖 FAVORITE OPEN SOURCE PROJECT :octocat:
+
+- [Bangla Developer Cheatsheet](https://devsonket.com/)
+- [Tech Diary Bangla](https://www.techdiary.dev/)
 
 </br>
-
-
-
 
 ![Asif Adib's github stats](https://github-readme-stats.vercel.app/api?username=asifadib&show_icons=true)
 
@@ -61,8 +61,6 @@ I'm a passionate Front-End Web Developer from Comilla, Bangladesh. </br> I have 
 ![Readme Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=asifadib/asifadib)
  
 <br/>
-
-
 
 
 <!--
