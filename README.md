@@ -54,7 +54,7 @@ I'm a passionate Front-End Web Developer from Comilla, Bangladesh. </br> I have 
 
 </br>
 
-![Asif Adib's github stats](https://github-readme-stats.vercel.app/api?username=asifadib&show_icons=true)
+![Asif Adib's Github Stats](https://github-readme-stats.vercel.app/api?username=asifadib&show_icons=true)
 
 <br/>
 
