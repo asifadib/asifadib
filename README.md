@@ -58,7 +58,7 @@ I'm a passionate Front-End Web Developer from Comilla, Bangladesh. </br> I have 
 
 <br/>
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=asifadib/asifadib)
+[Visitors](https://visitor-badge.glitch.me/badge?page_id=asifadib/asifadib)
  
 <br/>
 
