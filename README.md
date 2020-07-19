@@ -52,16 +52,13 @@ I'm a passionate Front-End Web Developer from Comilla, Bangladesh. </br> I have 
 - [Bangla Developer Cheatsheet](https://devsonket.com/)
 - [Tech Diary Bangla](https://www.techdiary.dev/)
 
-</br>
 
-![Asif Adib's Github Stats](https://github-readme-stats.vercel.app/api?username=asifadib&show_icons=true)
+---
 
-<br/>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=asifadib/asifadib)
+![Asif Adib's github stats](https://github-readme-stats.vercel.app/api?username=asifadib&show_icons=true&title_color=fff&icon_color=4392f1&text_color=fff&bg_color=344055)
 
 
-<br/>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=asifadib)
 
 
 <!--
