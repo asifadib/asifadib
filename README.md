@@ -37,7 +37,7 @@ I'm a passionate Front-End Web Developer from Comilla, Bangladesh. </br> I have 
 <br/>
 <br/>
 
-### TECHNOLOGIES
+### TECHNOLOGIES :octocat:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
