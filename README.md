@@ -44,15 +44,15 @@ I'm a passionate Front-End Web Developer from Comilla, Bangladesh. </br> I have 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![jquery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-<br/>
+<br/><br/>
 ![visualstudiocode](https://img.shields.io/badge/-VScode-black?style=flat-square&logo=visualstudiocode)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-<br/>
+<br/><br/>
 ![cpanel](https://img.shields.io/badge/-cpanel-black?style=flat-square&logo=cpanel)
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-black?style=flat-square&logo=bitbucket)
-<br/>
+<br/><br/>
 
 
 ## 🤖 FAVORITE OPEN SOURCE PROJECT :octocat:
