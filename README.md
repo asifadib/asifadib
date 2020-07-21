@@ -37,23 +37,7 @@ I'm a passionate Front-End Web Developer from Comilla, Bangladesh. </br> I have 
 <br/>
 <br/>
 
-## PROGRAMMING LANGUAGES  :rocket:
-| <img src="https://raw.githubusercontent.com/asifadib/asifadib/master/img/js.png" width=60> |
-|:---:|
-</br>
-
-### TOOLS :fire:
-|<img src="https://raw.githubusercontent.com/asifadib/asifadib/master/img/git.png" width=60> | <img src="https://raw.githubusercontent.com/asifadib/asifadib/master/img/github.svg" width=60> | <img src="https://raw.githubusercontent.com/asifadib/asifadib/master/img/vscode.png" width=60> |
-|:---:|:---:|:---:|
-<br/>
-
-## 🤖 FAVORITE OPEN SOURCE PROJECT :octocat:
-
-- [Bangla Developer Cheatsheet](https://devsonket.com/)
-- [Tech Diary Bangla](https://www.techdiary.dev/)
-
-
-### Technologies
+### TECHNOLOGIES
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
@@ -67,7 +51,29 @@ I'm a passionate Front-End Web Developer from Comilla, Bangladesh. </br> I have 
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-black?style=flat-square&logo=bitbucket)
 
+## 🤖 FAVORITE OPEN SOURCE PROJECT :octocat:
 
+- [Bangla Developer Cheatsheet](https://devsonket.com/)
+- [Tech Diary Bangla](https://www.techdiary.dev/)
+
+
+
+
+---
+
+![Asif Adib's github stats](https://github-readme-stats.vercel.app/api?username=asifadib&show_icons=true&title_color=fff&icon_color=4392f1&text_color=fff&bg_color=344055)
+
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=asifadib)
+
+
+
+
+
+
+
+
+<!--Extra Features Here--->
 
 
 <!--
@@ -115,6 +121,19 @@ I'm a passionate Front-End Web Developer from Comilla, Bangladesh. </br> I have 
 
 
 
+<!--
+
+## PROGRAMMING LANGUAGES  :rocket:
+| <img src="https://raw.githubusercontent.com/asifadib/asifadib/master/img/js.png" width=60> |
+|:---:|
+</br>
+
+### TOOLS :fire:
+|<img src="https://raw.githubusercontent.com/asifadib/asifadib/master/img/git.png" width=60> | <img src="https://raw.githubusercontent.com/asifadib/asifadib/master/img/github.svg" width=60> | <img src="https://raw.githubusercontent.com/asifadib/asifadib/master/img/vscode.png" width=60> |
+|:---:|:---:|:---:|
+<br/>
+
+-->
 
 
 
@@ -123,13 +142,6 @@ I'm a passionate Front-End Web Developer from Comilla, Bangladesh. </br> I have 
 
 
 
-
----
-
-![Asif Adib's github stats](https://github-readme-stats.vercel.app/api?username=asifadib&show_icons=true&title_color=fff&icon_color=4392f1&text_color=fff&bg_color=344055)
-
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=asifadib)
 
 
 <!--
