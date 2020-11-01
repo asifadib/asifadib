@@ -65,10 +65,21 @@ I'm a passionate Front-End Web Developer from Comilla, Bangladesh. </br> I have 
 
 ---
 
-![Asif Adib's github stats](https://github-readme-stats.vercel.app/api?username=asifadib&show_icons=true&title_color=fff&icon_color=4392f1&text_color=fff&bg_color=344055)
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=asifadib&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=asifadib&hide=java&theme=tokyonight">
+</p>
+</details>
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=asifadib)
+
+
+
+
 
 
 
