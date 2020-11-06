@@ -92,7 +92,6 @@ I'm a passionate Self-Taught Front-End Web Developer from Comilla, Bangladesh. <
 
 <!--
 
-
 ![adobexd](https://img.shields.io/badge/-AdobeXD-black?style=flat-square&logo=adobexd)
 ![adobephotoshop](https://img.shields.io/badge/-AdobePhotoshop-black?style=flat-square&logo=adobephotoshop)
 ![adobeillustrator](https://img.shields.io/badge/-AdobeIllustrator-black?style=flat-square&logo=adobeillustrator)
@@ -102,34 +101,13 @@ I'm a passionate Self-Taught Front-End Web Developer from Comilla, Bangladesh. <
 ![Filezilla](https://img.shields.io/badge/-Filezilla-black?style=flat-square&logo=filezilla)
 ![Gmail](https://img.shields.io/badge/-Gmail-black?style=flat-square&logo=gmail)
 ![Payoneer](https://img.shields.io/badge/-Payoneer-black?style=flat-square&logo=Payoneer)
-![xiaomi](https://img.shields.io/badge/-Xiaomi-black?style=flat-square&logo=xiaomi)
-![pingdom](https://img.shields.io/badge/-Pingdom-black?style=flat-square&logo=pingdom)
 ![skype](https://img.shields.io/badge/-Skype-black?style=flat-square&logo=skype)
-![windows](https://img.shields.io/badge/-Windows10-black?style=flat-square&logo=windows)
-![letsencrypt](https://img.shields.io/badge/-Letsencrypt-black?style=flat-square&logo=letsencrypt)
 ![behance](https://img.shields.io/badge/-Behance-black?style=flat-square&logo=behance)
-![basecamp](https://img.shields.io/badge/-Basecamp-black?style=flat-square&logo=basecamp)
-![Codeigniter](https://img.shields.io/badge/-Codeigniter-black?style=flat-square&logo=codeigniter)
-
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![shopify](https://img.shields.io/badge/-Shopify-black?style=flat-square&logo=shopify)
 ![Woocommerce](https://img.shields.io/badge/-Woocommerce-black?style=flat-square&logo=woocommerce)
-
-![Woo](https://img.shields.io/badge/-Woo-black?style=flat-square&logo=woo)
-![xampp](https://img.shields.io/badge/-Xampp-black?style=flat-square&logo=xampp)
 ![Slack](https://img.shields.io/badge/-Slack-black?style=flat-square&logo=slack)
-
 ![wordpress](https://img.shields.io/badge/-WordPress-black?style=flat-square&logo=wordpress)
-![gutenberg](https://img.shields.io/badge/-Gutenberg-black?style=flat-square&logo=gutenberg)
-![Yoast](https://img.shields.io/badge/-Yoast-black?style=flat-square&logo=yoast)
-![squarespace](https://img.shields.io/badge/-Squarespace-black?style=flat-square&logo=squarespace)
-
-
-
 
 -->
 
@@ -148,13 +126,6 @@ I'm a passionate Self-Taught Front-End Web Developer from Comilla, Bangladesh. <
 <br/>
 
 -->
-
-
-
-
-
-
-
 
 
 
