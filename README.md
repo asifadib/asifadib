@@ -74,16 +74,14 @@ I'm a passionate Self-Taught Front-End Web Developer from Comilla, Bangladesh. <
 </details>
 
 
+[![Badge](https://img.shields.io/static/v1?label=asifadib&message=dev&style=for-the-badge&labelColor=cornflowerblue&color=blueviolet)][website]
+
+[website]: https://asifadib.me
+[youtube]: https://www.youtube.com/channel/UCL5VZ6UCPhA1EyOTWxrRBZQ
+[instagram]: https://instagram.com/asifadib780
+[linkedin]: https://linkedin.com/in/asifadib
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=asifadib)
-
-
-
-
-
-
-
-
-
 
 
 
@@ -108,22 +106,6 @@ I'm a passionate Self-Taught Front-End Web Developer from Comilla, Bangladesh. <
 ![Woocommerce](https://img.shields.io/badge/-Woocommerce-black?style=flat-square&logo=woocommerce)
 ![Slack](https://img.shields.io/badge/-Slack-black?style=flat-square&logo=slack)
 ![wordpress](https://img.shields.io/badge/-WordPress-black?style=flat-square&logo=wordpress)
-
--->
-
-
-
-<!--
-
-## PROGRAMMING LANGUAGES  :rocket:
-| <img src="https://raw.githubusercontent.com/asifadib/asifadib/master/img/js.png" width=60> |
-|:---:|
-</br>
-
-### TOOLS :fire:
-|<img src="https://raw.githubusercontent.com/asifadib/asifadib/master/img/git.png" width=60> | <img src="https://raw.githubusercontent.com/asifadib/asifadib/master/img/github.svg" width=60> | <img src="https://raw.githubusercontent.com/asifadib/asifadib/master/img/vscode.png" width=60> |
-|:---:|:---:|:---:|
-<br/>
 
 -->
 
