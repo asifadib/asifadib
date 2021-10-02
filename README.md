@@ -1,3 +1,9 @@
+<!-- Welcome Section -->
+<h2 align="center">
+  Welcome to Asif Adib profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
+
 <img src="https://raw.githubusercontent.com/asifadib/asifadib/master/img/Asif-Adib_Github_Readme_Profile_Cover.png" alt="banner that says Asif Adib - Front-End Web Developer">
 
 
