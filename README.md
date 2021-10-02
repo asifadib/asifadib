@@ -1,3 +1,8 @@
+<h3 align="center">
+  Welcome to Asif Adib's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
 <img src="https://raw.githubusercontent.com/asifadib/asifadib/main/img/Header.svg" alt="Banner that says Asif Adib - Front-End Web Developer">
 
 
