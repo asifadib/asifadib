@@ -9,9 +9,19 @@
   <a href="https://github.com/asifadib"><img src="https://raw.githubusercontent.com/asifadib/asifadib/main/img/Header.svg"></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/asifadib/asifadib/master/img/Asif-Adib_Github_Readme_Profile_Cover.png" alt="banner that says Asif Adib - Front-End Web Developer">
+<!-- Social Profile Section -->
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCL5VZ6UCPhA1EyOTWxrRBZQ"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 
+  <a href="https://twitter.com/asifadib780"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 
+  <a href="https://dev.to/asifadib"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
+<!-- Introduction -->
 ## Hi, I'M ASIF ADIB 👋💻 </br>
 I'm a passionate Self-Taught Front-End Web Designer from Comilla, Bangladesh. </br> I have a passion for learning and teaching others. I love writing code and making things happen! I love what I do, and am constantly honing my craft. You can follow along with me, I try to document <a href="https://medium.com/asifadib-diary/">MY JOURNEY</a> the best I can by writing articles.
 
