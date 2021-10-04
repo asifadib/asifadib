@@ -11,50 +11,22 @@
 
 <!-- Social Profile Section -->
 <p align="center">
-  <a href="https://dev.to/asifadib"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/asifadib780"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.youtube.com/channel/UCL5VZ6UCPhA1EyOTWxrRBZQ"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://medium.com/@asifadib"><img src="https://raw.githubusercontent.com/asifadib/asifadib/main/img/Medium.png"></a>
+  <a href="https://bn.quora.com/profile/Asif-Adib-1"><img src="https://raw.githubusercontent.com/asifadib/asifadib/main/img/Quora.png"></a>
+  <a href="https://www.linkedin.com/in/asifadib"><img src="https://raw.githubusercontent.com/asifadib/asifadib/main/img/linkedin.png"></a>
+  <a href="https://instagram.com/asifadib780"><img src="https://raw.githubusercontent.com/asifadib/asifadib/main/img/Instagram.png"></a>
+  <a href="https://www.facebook.com/asifadib.official"><img src="https://raw.githubusercontent.com/asifadib/asifadib/main/img/facebook.png"></a>
+  <a href="https://twitter.com/asifadib780"><img src="https://raw.githubusercontent.com/asifadib/asifadib/main/img/twitter.png"></a>
+  <a href="https://stackoverflow.com/users/11658802/asif-adib"><img src="https://raw.githubusercontent.com/asifadib/asifadib/main/img/stack-overflow.png"></a>
+  <a href="https://dev.to/asifadib"><img src="https://raw.githubusercontent.com/asifadib/asifadib/main/img/dev.png"></a>
+  <a href="https://www.youtube.com/channel/UCL5VZ6UCPhA1EyOTWxrRBZQ"><img src="https://raw.githubusercontent.com/asifadib/asifadib/main/img/youtube.png"></a>
 </p>
 
 <!-- Introduction -->
 ## Hi, I'M ASIF ADIB 👋💻 </br>
 I'm a passionate Self-Taught Front-End Web Designer from Comilla, Bangladesh. </br> I have a passion for learning and teaching others. I love writing code and making things happen! I love what I do, and am constantly honing my craft. You can follow along with me, I try to document <a href="https://medium.com/asifadib-diary/">MY JOURNEY</a> the best I can by writing articles.
 
-
-## FIND ME AROUND THE WEB 🌎 💬
-<br>
-<a href="https://medium.com/@asifadib">
-  <img align="left" alt="Asif Adib Medium" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
-</a>
-<a href="https://www.linkedin.com/in/asifadib/">
-  <img align="left" alt="Asif Adib Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
-</a>
-<a href="https://bn.quora.com/profile/Asif-Adib-1">
-  <img align="left" alt="Asif Adib Quora Bangla" width="21px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/1147d199a35293b391152ee85e2d30988439157f/svgs/brands/quora.svg" />
-</a>
-
-<a href="https://twitter.com/asifadib780">
-  <img align="left" alt="Asif Adib Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
-</a>
-<a href="https://instagram.com/asifadib780">
-  <img align="left" alt="Asif Adib Instagram" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/asifadib.official">
-  <img align="left" alt="Asif Adib Facebook" width="21px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/1147d199a35293b391152ee85e2d30988439157f/svgs/brands/facebook.svg" />
- </a>
-<a href="https://dev.to/asifadib">
-  <img align="left" alt="Asif Adib DEV" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/dev_to.svg" />
-</a>
-<a href="https://www.quora.com/profile/Asif-Adib-3">
-  <img align="left" alt="Asif Adib Quora English" width="21px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/1147d199a35293b391152ee85e2d30988439157f/svgs/brands/quora.svg" />
-</a>
-
-<br/>
-<br/>
-
+<!-- Technology I Use -->
 ### TECHNOLOGIES :octocat:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
